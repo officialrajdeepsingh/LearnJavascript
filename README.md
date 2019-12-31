@@ -1,2 +1,12 @@
 # LearnJavascript
-Learn Javascript for begniiner level person
+learn javascript for beginners
+
+# Let's start it
+
+#Website
+
+#Book for javascript
+
+
+#framework
+1.React js
